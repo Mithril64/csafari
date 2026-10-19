@@ -1,0 +1,14 @@
+{
+  "shiny": {
+    "category": "master",
+    "sounds": [
+      "csafari:shiny"
+    ]
+  },
+  "shiny_wynncraft": {
+    "category": "master",
+    "sounds": [
+      "csafari:shiny_wynncraft"
+    ]
+  }
+}
